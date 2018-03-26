@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Main.unity
+    guid: 69369bb5828c7f34a940cdc6ee7dd0ee
+  - enabled: 1
+    path: Assets/startup.unity
+    guid: 5975912175989014e861d4a5e4a38dd2
+  - enabled: 1
+    path: Assets/title.unity
+    guid: 2a7b572859d79fc419395147264e87eb
+  - enabled: 1
+    path: Assets/Level 1-1.unity
+    guid: fe08889c0bb00c545a869a6c34732ece
+  - enabled: 1
+    path: Assets/Level 1-2.unity
+    guid: ddea8b80158d05f4e84009baf8425f70
+  - enabled: 1
+    path: Assets/Boss1.unity
+    guid: 947a80be837527849bd2779e8bea7783
+  - enabled: 1
+    path: Assets/Level 2-1.unity
+    guid: 372d2bcb161af794184e3813c3b2418d
+  - enabled: 1
+    path: Assets/Level 2-2.unity
+    guid: 67cbbdf2c5d66f24aa70db42ecf45f3e
+  - enabled: 1
+    path: Assets/Boss2.unity
+    guid: 9ad99508253e3cd43913b6d51d48fd9a
+  - enabled: 1
+    path: Assets/Level 3-1.unity
+    guid: c88d2e68e7aa0b040ae33ffd5e34045c
+  - enabled: 1
+    path: Assets/Level 3-2.unity
+    guid: ef7f0eb8b5909674aa52fed38d8d550b
+  - enabled: 1
+    path: Assets/Boss3.unity
+    guid: 437d539c533a52641a3220430b1979a0
+  - enabled: 1
+    path: Assets/End.unity
+    guid: b1f2eded9fbc54542813713eb16b23cf
